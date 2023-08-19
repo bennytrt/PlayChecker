@@ -1,0 +1,15 @@
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\bin\Debug\net6.0\PlayChecker.exe
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\bin\Debug\net6.0\PlayChecker.deps.json
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\bin\Debug\net6.0\PlayChecker.runtimeconfig.json
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\bin\Debug\net6.0\PlayChecker.dll
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\bin\Debug\net6.0\PlayChecker.pdb
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\obj\Debug\net6.0\PlayChecker.csproj.AssemblyReference.cache
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\obj\Debug\net6.0\PlayChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\obj\Debug\net6.0\PlayChecker.AssemblyInfoInputs.cache
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\obj\Debug\net6.0\PlayChecker.AssemblyInfo.cs
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\obj\Debug\net6.0\PlayChecker.csproj.CoreCompileInputs.cache
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\obj\Debug\net6.0\PlayChecker.dll
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\obj\Debug\net6.0\refint\PlayChecker.dll
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\obj\Debug\net6.0\PlayChecker.pdb
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\obj\Debug\net6.0\PlayChecker.genruntimeconfig.cache
+C:\Users\nigga\source\repos\PlayChecker\PlayChecker\obj\Debug\net6.0\ref\PlayChecker.dll
